@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: dev_aberto_andrebbm
+Version: 0.1
+Author: André Melo
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: requests
